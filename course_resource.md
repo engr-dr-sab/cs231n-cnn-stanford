@@ -6,3 +6,5 @@ https://www.youtube.com/watch?v=vT1JzLTH4G4&index=1&list=PL3FW7Lu3i5JvHM8ljYj-zL
 http://cs231n.github.io
 # Standford University Page
 http://cs231n.stanford.edu
+# Justin Johnson Page
+https://cs.stanford.edu/people/jcjohns/
