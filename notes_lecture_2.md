@@ -7,3 +7,4 @@ Split in :
 3. Test data
 4. Optimize the hyper parameters for Validation Data
 5. Report the Error rate for test data
+# The Fold Based Training and Validation : The Gold Standard 
