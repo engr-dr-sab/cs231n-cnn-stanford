@@ -14,6 +14,6 @@ https://github.com/engr-dr-sab/cs231n-cnn-stanford
 http://vision.stanford.edu/teaching/cs231n-demos/
 # Numpy Tutorial
 http://cs231n.github.io/python-numpy-tutorial/
-# Stefano Ermon an AI Expert with Innovation Application Areas
+# Stefano Ermon an AI Expert with Innovative Application Areas
 https://cs.stanford.edu/~ermon/
 
