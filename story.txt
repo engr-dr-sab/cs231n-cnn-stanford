@@ -1,6 +1,7 @@
+
 13. ROAD TRIP
 It was time to go. Still, I wanted to know as much as I could from The Book of Lore.  
-
+###########################################htofix
 “Can we see Ream’s fairytale?” I asked politely.
 Tryt shut the book swiftly, again. 
 
@@ -49,7 +50,7 @@ Tryt did a graceful flip to the back of the bed. We all prepared to depart.
 *****************************************************2018.2
 I turned around and realized that the all the fairies were on the platform watching us, and there were even more of them than when we first arrived. I saw young fairies flying around clumsily and older fairies using their wings to hold themselves upright. I had the sad thought that there used be far more fairies in Pavidale, before the yellow dragon started taking them… before my fairytale began. 
 
- 
+####################################################hotfix 
 
 Deli started punching commands into the phone, but Tryt stopped her. 
 
